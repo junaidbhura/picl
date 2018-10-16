@@ -1,0 +1,12 @@
+[Tt]humbs.db
+.DS_Store
+node_modules
+package-lock.json
+
+/*
+!.gitignore
+!image.js
+!index.js
+!transform.js
+!config.sample.json
+!package.json

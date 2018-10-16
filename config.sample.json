@@ -1,0 +1,15 @@
+{
+  "port": 8080,
+  "clouds": [
+    {
+      "name": "mys3bucket",
+      "folder": "cloudfolder",
+      "remote": "https://mys3bucket.s3.amazonaws.com/uploads/"
+    },
+    {
+      "name": "mywordpresssite",
+      "folder": "cloudfolder",
+      "remote": "https://mywordpresssite.com/wp-content/uploads/"
+    }
+  ]
+}
